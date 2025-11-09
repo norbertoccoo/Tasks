@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tasks Clone",
+  "description": "A functional clone of Google Tasks with an AI-powered task suggestion feature using the Gemini API. Users can create multiple task lists, add, edit, complete, and delete tasks. The app persists data in the browser's local storage for a seamless experience.",
+  "requestFramePermissions": []
+}
